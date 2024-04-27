@@ -1,0 +1,9 @@
+{
+    "created":"successfully created",
+    "notFound":"not found",
+    "alreadyExists":"email already exists",
+    "emailInvalid":"invalid email",
+    "deleted":"entity deleted",
+    "failed":"failed"
+    
+}
